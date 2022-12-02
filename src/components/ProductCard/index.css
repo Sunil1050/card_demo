@@ -1,0 +1,13 @@
+.card-container {
+    min-height:200px;
+    margin-left:14px;
+    margin-right:14px;
+    margin-bottom:14px;
+
+}
+.image {
+    height:290px;
+}
+.button {
+    border-width:0px;
+}
